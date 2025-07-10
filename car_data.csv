@@ -1,0 +1,90 @@
+make,model,year,image_url,standardPrice,engine,fuelType,body
+Peugeot,e-208,2023,https://www.peugeot.ie/content/dam/peugeot/master/b2c/our-range/showroom/208/2023-10-new-208/desktop/D_SR_208_Motorisation_Electrique.jpg,26000,Electric,Electric,5DR
+Renault,Zoe,2022,https://www.carscoops.com/wp-content/uploads/2022/06/2022-Renault-Zoe-2s.jpg,38000,Electric,Electric,5DR
+Hyundai,IONIQ 5,2023,https://car-images.bauersecure.com/wp-images/13207/1056x594/hyundai_ioniq_5_review_74.jpg,62000,Electric,Electric,SUV
+Kia,EV6,2022,https://www.cnet.com/a/img/resize/132c5bbc343aa557cd9837e2a8d86ce7c63869d7/hub/2021/10/29/88318f5f-2bdd-4248-a397-886823f8ebda/ogi-2022-kia-ev6-fd-5.png?auto=webp&fit=crop&height=675&width=1200,7000,Electric,Electric,SUV
+Volkswagen,ID.4,2023,https://pictures.dealer.com/l/leesburgvolkswagenvw/0878/2111dc41f9c2e678d07579363e42e1a9x.jpg,57000,Electric,Electric,SUV
+BMW,i4,2022,https://media.ed.edmunds-media.com/bmw/i4/2022/oem/2022_bmw_i4_sedan_edrive40_fq_oem_1_1600.jpg,70000,Electric,Electric,4DR
+Nissan,Ariya,2023,https://www.edmunds.com/assets/m/nissan/ariya/2023/oem/2023_nissan_ariya_4dr-suv_platinumplus-e-4orce_fq_oem_1_600.jpg,54000,Electric,Electric,SUV
+Fiat,500e,2021,https://www.completecar.ie/img/news/9911_large.jpg,23000,Electric,Electric,3DR
+Skoda,Enyaq,2023,,43000,Electric,Electric,SUV
+Mazda,MX-30,2022,,45000,Electric,Electric,SUV
+Volvo,C40 Recharge,2023,,17000,Electric,Electric,SUV
+Mercedes,EQC,2022,,46000,Electric,Electric,SUV
+Honda,e,2021,,31000,Electric,Electric,3DR
+Cupra,Born,2023,,62000,Electric,Electric,5DR
+Smart,EQ ForTwo,2022,,55000,Electric,Electric,2DR
+Tesla,Model Y,2023,,54000,Electric,Electric,SUV
+Jeep,Renegade,2021,,17000,1.6,Diesel,SUV
+Subaru,Forester,2020,,55000,2.0,Petrol,SUV
+Dacia,Sandero,2022,,65000,1.0,Petrol,5DR
+Alfa Romeo,Stelvio,2021,,54000,2.2,Diesel,SUV
+Mini,Countryman,2022,,70000,1.5,Hybrid,5DR
+Lexus,NX,2023,,22000,2.5,Hybrid,SUV
+Fiat,Panda,2020,,62000,0.9,Petrol,5DR
+Mazda,MX-5,2019,,33000,2.0,Petrol,2DR
+Jaguar,F-PACE,2021,,8000,2.0,Petrol,SUV
+Volvo,XC40,2022,,5000,Electric,Electric,SUV
+Peugeot,2008,2023,,8000,1.2,Petrol,SUV
+Renault,Megane,2021,,60000,1.5,Diesel,5DR
+Honda,HR-V,2022,,53000,1.5,Hybrid,SUV
+Suzuki,Swift,2021,,25000,1.2,Hybrid,5DR
+Seat,Arona,2022,,44000,1.0,Petrol,SUV
+Citroen,C5 Aircross,2021,,16000,1.5,Diesel,SUV
+Nissan,Leaf,2020,,28000,Electric,Electric,5DR
+Kia,Niro,2022,,13000,1.6,Hybrid,SUV
+Hyundai,Kona,2021,,38000,Electric,Electric,SUV
+Ford,Puma,2023,,27000,1.0,Hybrid,SUV
+Volkswagen,ID.3,2022,,51000,Electric,Electric,5DR
+Opel,Mokka,2021,,57000,1.2,Petrol,SUV
+Skoda,Scala,2020,,59000,1.0,Petrol,5DR
+Toyota,C-HR,2022,,6000,1.8,Hybrid,SUV
+Mercedes,EQB,2023,,18000,Electric,Electric,SUV
+BMW,iX1,2023,,16000,Electric,Electric,SUV
+Audi,e-tron,2021,,70000,Electric,Electric,SUV
+MG,ZS EV,2022,,17000,Electric,Electric,SUV
+Cupra,Formentor,2022,,61000,1.5,Petrol,SUV
+Tesla,Model 3,2022,,47000,Electric,Electric,4DR
+Jeep,Compass,2020,,37000,1.3,Petrol,SUV
+Subaru,Impreza,2019,,9000,2.0,Petrol,5DR
+Dacia,Duster,2021,,70000,1.5,Diesel,SUV
+Alfa Romeo,Giulia,2022,,42000,2.0,Petrol,4DR
+Mini,Cooper,2020,,57000,1.5,Petrol,3DR
+Lexus,UX,2021,,32000,2.0,Hybrid,SUV
+Fiat,500X,2019,,6000,1.0,Petrol,SUV
+Mazda,Mazda3,2020,,55000,2.0,Petrol,5DR
+Jaguar,E-PACE,2022,,49000,2.0,Diesel,SUV
+Audi,A4,2016,,39000,1.4,Petrol,4DR
+Audi,Q5,2014,,20000,2.0,Diesel,5DR
+BMW,3 Series,2018,,7000,2.0,Diesel,4DR
+Mercedes,C-Class,2019,,6000,1.5,Petrol,4DR
+Volkswagen,Golf,2019,,21000,1.6,Diesel,5DR
+Toyota,Corolla,2021,,61000,1.8,Hybrid,5DR
+Ford,Focus,2018,,35000,1.0,Petrol,5DR
+Hyundai,Tucson,2020,,20000,1.6,Diesel,SUV
+Nissan,Qashqai,2017,,64000,1.5,Diesel,SUV
+Skoda,Octavia,2019,,52000,1.0,Petrol,5DR
+Opel,Astra,2017,,47000,1.4,Petrol,5DR
+Kia,Sportage,2018,,38000,1.7,Diesel,SUV
+Volvo,XC60,2015,,18000,2.4,Diesel,SUV
+Renault,Clio,2020,,11000,1.0,Petrol,5DR
+Peugeot,308,2016,,23000,1.2,Petrol,5DR
+Mazda,CX-5,2019,,27000,2.2,Diesel,SUV
+Citroen,C3,2018,,31000,1.2,Petrol,5DR
+Seat,Leon,2017,,29000,1.6,Diesel,5DR
+Honda,Civic,2015,,61000,1.8,Petrol,5DR
+Suzuki,Vitara,2020,,26000,1.4,Petrol,SUV
+Audi,A3,2019,,8000,1.0,Petrol,5DR
+BMW,5 Series,2017,,37000,2.0,Diesel,4DR
+Mercedes,A-Class,2021,,6000,1.3,Petrol,5DR
+Volkswagen,Tiguan,2018,,35000,2.0,Diesel,SUV
+Toyota,RAV4,2019,,14000,2.5,Hybrid,SUV
+Ford,Kuga,2020,,33000,1.5,Petrol,SUV
+Hyundai,i30,2016,,43000,1.4,Petrol,5DR
+Nissan,Juke,2021,,47000,1.0,Petrol,SUV
+Skoda,Kodiaq,2019,,22000,2.0,Diesel,SUV
+Opel,Corsa,2020,,41000,1.2,Petrol,5DR
+Audi,Q3,2022,,24000,1.5,Petrol,SUV
+BMW,X1,2021,,70000,2.0,Diesel,SUV
+Mercedes,GLA,2020,,44000,2.0,Diesel,SUV
+Toyota,Yaris,2023,,65000,1.5,Hybrid,5DR
